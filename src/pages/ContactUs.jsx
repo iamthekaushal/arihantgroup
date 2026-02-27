@@ -53,7 +53,7 @@ const ContactUs = () => {
                   href="tel:+18884775475"
                   className="flex items-center gap-3 text-3xl sm:text-4xl font-extrabold text-[#ed6e3e] hover:text-[#d00202] transition"
                 >
-                  +1-888-477-5475
+                  +1-916-396-7217
                 </a>
                 <p className="text-gray-600 mt-2">
                   Mon–Fri 9:00 AM – 6:00 PM EST
@@ -63,10 +63,10 @@ const ContactUs = () => {
               <div>
                 <h3 className="text-2xl sm:text-3xl font-bold mb-3">Direct Email</h3>
                 <a
-                  href="mailto:contact@arihant.ca"
+                  href="mailto:support@arihantgroup.net"
                   className="text-2xl sm:text-3xl font-bold text-[#ed6e3e] hover:text-[#d00202] transition hover:underline"
                 >
-                  contact@arihant.ca
+                  support@arihantgroup.net
                 </a>
                 <p className="text-gray-600 mt-2">
                   Technical & strategic inquiries only
@@ -81,7 +81,7 @@ const ContactUs = () => {
                   <div>
                     <p className="font-semibold">Sacramento, US</p>
                     <p className="text-gray-700">
-                      55 Town Centre Court, Scarborough, ON
+                      sacramento, CA
                     </p>
                   </div>
                   <div>
@@ -94,7 +94,7 @@ const ContactUs = () => {
               </div>
 
               <p className="italic text-gray-600">
-                Join the axis of innovation between Canada and India
+                Join the axis of innovation between USA and India
               </p>
             </div>
 
@@ -161,7 +161,7 @@ const ContactUs = () => {
       <section className="py-14 bg-white border-t">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <p className="text-lg sm:text-xl text-gray-700 mb-6">
-            Toronto • India • Global Delivery
+            USA • India • Global Delivery
           </p>
 
           <a

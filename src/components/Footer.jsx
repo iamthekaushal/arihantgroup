@@ -97,10 +97,10 @@ export default function Footer() {
               <li className="flex justify-center sm:justify-start gap-3">
                 ✉️
                 <a
-                  href="mailto:support@arihant.com"
+                  href="mailto:support@arihantgroup.net"
                   className="hover:text-[#48c3ff]"
                 >
-                  support@arihant.com
+                  support@arihantgroup.net
                 </a>
               </li>
 
@@ -116,7 +116,7 @@ export default function Footer() {
             <div className="flex justify-center sm:justify-start gap-6">
 
               <a
-                href="https://linkedin.com/company/yourbrand"
+                href="https://linkedin.com/in/iamthekaushal"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -128,7 +128,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://x.com/yourbrand"
+                href="https://x.com/iamkaushal"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -140,7 +140,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://github.com/yourbrand"
+                href="https://github.com/iamthekaushal"
                 target="_blank"
                 rel="noopener noreferrer"
               >
