@@ -46,7 +46,7 @@ const AboutUs = () => {
 
               <div className="space-y-5 md:space-y-6 text-lg text-gray-700 leading-relaxed">
                 <p>
-                  Founded in 2020, Arihant was created with one clear mission: <strong>great digital products shouldn't cost a fortune or take forever</strong>.
+                  Founded in 2020, Arihant Group was created with one clear mission: <strong>great digital products shouldn't cost a fortune or take forever</strong>.
                 </p>
                 <p>
                   We merged Silicon Valley discipline with global talent — building a lean, high-velocity agency that delivers enterprise-level quality at startup-friendly pricing and timelines.

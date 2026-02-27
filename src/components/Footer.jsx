@@ -158,7 +158,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="relative z-10 mt-12 pt-8 border-t border-white/10 text-center text-sm">
-          © {new Date().getFullYear()} Arihant. All rights reserved.
+          © {new Date().getFullYear()} Arihant Group. All rights reserved.
         </div>
 
       </footer>

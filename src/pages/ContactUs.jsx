@@ -79,7 +79,7 @@ const ContactUs = () => {
                 </h3>
                 <div className="space-y-4">
                   <div>
-                    <p className="font-semibold">Sacramento, US</p>
+                    <p className="font-semibold">Sacramento, USA</p>
                     <p className="text-gray-700">
                       sacramento, CA
                     </p>

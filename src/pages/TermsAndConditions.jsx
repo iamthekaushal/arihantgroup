@@ -119,7 +119,7 @@ export default function TermsAndConditions() {
               please contact us at:
               <br />
               <span className="font-medium text-gray-900">
-                support@arihant.com
+                support@arihantgroup.net
               </span>
             </p>
           </div>
